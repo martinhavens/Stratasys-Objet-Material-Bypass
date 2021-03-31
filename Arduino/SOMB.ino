@@ -1,5 +1,5 @@
 // Teensy 3.2 uC @ 24MHz
-
+//let me ttest
 // Variables
 int Cartridge = 0;
 int CartType[] = {0,1,1,0}; //0 = Support, 1 = Model
